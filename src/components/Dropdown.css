@@ -1,0 +1,16 @@
+.dropdown {
+    position: absolute;
+    right: 16px;
+    
+  }
+
+
+
+.dropdown-item {
+    border: 3px solid black;
+    background-color: bisque;
+}
+
+.li {
+  list-style-type: none;
+}
